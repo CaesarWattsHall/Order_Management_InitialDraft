@@ -1,10 +1,6 @@
 /*
 *By: Caesar R. Watts-Hall
-*Date: February 07, 2019
-*Class: JAVA II
-*Instructor: Dr.Primo
-*Assignment: Lab Assignment #3
-*Due Date: February 07, 2019 @ 11:55PM
+*Date: 10.25.2021
 */
 //START
 package lab2_umldiagrams;
